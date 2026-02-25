@@ -3,7 +3,7 @@
    
    <!-- Homepage -->
    <url>
-      <loc>https://sanjh.foundation/</loc>
+      <loc>https://www.sanjh.foundation/</loc>
       <lastmod>2026-02-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>1.0</priority>
@@ -11,13 +11,31 @@
 
    <!-- About page -->
    <url>
-      <loc>https://sanjh.foundation/about</loc>
+      <loc>https://www.sanjh.foundation/about</loc>
       <lastmod>2026-02-24</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <!-- Contact page -->
+   <url>
+      <loc>https://www.sanjh.foundation/projects</loc>
+      <lastmod>2026-02-24</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Blog example -->
+   
+   <url>
+      <loc>https://sanjh.foundation/donate</loc>
+      <lastmod>2026-02-24</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Blog example -->
+   
    <url>
       <loc>https://sanjh.foundation/contact</loc>
       <lastmod>2026-02-24</lastmod>
@@ -26,11 +44,7 @@
    </url>
 
    <!-- Blog example -->
-   <url>
-      <loc>https://sanjh.foundation/blog/post-1</loc>
-      <lastmod>2026-02-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-   </url>
+  
+
 
 </urlset>
